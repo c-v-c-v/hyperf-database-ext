@@ -1,5 +1,5 @@
-# component-creator
+# 安装
 
 ```
-composer require hyperf/component-creator
+composer require guiqibusixin/hyper-database-ext
 ```
