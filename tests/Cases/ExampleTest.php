@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace HyperfTest\Cases;
+namespace Guiqibusixin\HyperfTest\Cases;
 
 /**
  * @internal
