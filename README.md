@@ -1,6 +1,6 @@
 ## 简介
 
-这是一个关于hyperf框架ORM操作的扩展包，支持Transactional注解、replace和onDuplicateKey等操作
+这是一个关于hyperf框架ORM操作的扩展包，支持Transactional注解、replace和onDuplicateKey等操作。后面会支持 case when语法，比如case when语法批量更新操作。
 
 ## 运行环境
 
